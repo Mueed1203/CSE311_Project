@@ -1,2 +1,2 @@
-# CSE3111_Project
+# CSE311_Project
 The project is an e-commerce website
